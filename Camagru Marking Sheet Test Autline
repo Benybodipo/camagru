@@ -1,0 +1,23 @@
+CAMAGRU MARKING SHEET TEST AUTLINE
+
+1. Preliminary checks
+    - usage of PHP
+    - No external packages or frameworks
+    - config/database
+    - config/init
+    - config/install
+2. Start web server
+3. Create user account
+4. Login
+    - Confirm email for login and login
+5. Webcam
+    - Access webcam and take pictures
+    - Upload pictures from computer
+    - Add stickers
+6. Homepage
+    - Display posts
+    - Like and comment posts
+    - View all posts from specific user
+7. Change user credential
+    - Update username, email and update from user profile
+    - Forgot/Reset password if forgotten
